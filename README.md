@@ -9,17 +9,17 @@ The purpose of this analysis was to determine the outcome of the campaigns chang
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![analysis of launch date](C:\Users\wales\OneDrive\Desktop\Analytics Projects\Crowdfunding Analysis\Resources)
+![analysis of launch date](C:\Users\wales\OneDrive\Desktop\Analytics Projects)
 
 ### Analysis of Outcomes Based on Goals
-![analysis of goals](C:\Users\wales\OneDrive\Desktop\Analytics Projects\Crowdfunding Analysis\Resources)
+![analysis of goals](C:\Users\wales\OneDrive\Desktop\Analytics Projects)
 
 ### Challenges and Difficulties Encountered
 One of the challenges I kept encountering was accurately calculating the total count of outcomes based on the amount of the funding goal. I kept getting results from my formula that weren't matching the correct results. After playing with the formula, I had realized that I was using the values in the "Pledged" column instead of the values from the "Goal" column. That error was substantial enough for me to easily see that something was wrong with my formula based on the values I was getting. 
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-That for every month, more campaigns successed reaching their goal than those that failed or canceled their fundraiser. 
+---That for every month, more campaigns successed reaching their goal than those that failed or canceled their fundraiser. 
 That there was a drastic increase in campaigns that were launched in May, almost doubling the monthly average. 
 
 - What can you conclude about the Outcomes based on Goals?
