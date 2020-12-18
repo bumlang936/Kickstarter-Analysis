@@ -10,7 +10,7 @@ _
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![analysis_of_launch_date](C:\Users\wales\OneDrive\Desktop\Analytics_Projects\analysis_of_launch_date.png)
+![analysis_of_launch_date](C:\Users\wales\OneDrive\Desktop\Analytics_Projects\Crowdfunding_Analysis\analysis_of_launch_date.png)
 
 ### Analysis of Outcomes Based on Goals
 ![analysis of goals](C:\Users\wales\OneDrive\Desktop\Analytics Projects\analysis of goals.png)
