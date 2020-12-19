@@ -10,10 +10,10 @@ An Analysis of Kickstarter Campaigns
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![analysis_of_launch_date](C:\Users\wales\OneDrive\Desktop\Analytics_Projects\analysis_of_launch_date.png)
+![](images/analysis of launch date.PNG)
 
 ### Analysis of Outcomes Based on Goals
-![analysis_of_goals](C:\Users\wales\OneDrive\Desktop\Analytics_Projects\Crowdfunding_Analysis\analysis_of_goals.png)
+![](images/analysis of goals.PNG)
 
 ### Challenges and Difficulties Encountered
 - One of the challenges I kept encountering was accurately calculating the total count of outcomes based on the amount of the funding goal. I kept getting results from my formula that weren't matching the correct results. After playing with the formula, I had realized that I was using the values in the "Pledged" column instead of the values from the "Goal" column. That error was substantial enough for me to easily see that something was wrong with my formula based on the values I was getting. 
