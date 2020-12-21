@@ -4,7 +4,7 @@ An Analysis of Kickstarter Campaigns
 ## Overview of Project
 
 ### Purpose
-The purpose of this analysis was to determine the outcome of the campaigns changed with respect to the date in which they were launched, and with respect to the size of their funding goal.
+The purpose of this analysis was to determine how the outcome of the campaigns changed with respect to the date in which they were launched for all theaters, and how the outcome of the campaigns changed with respect to the size of their funding goal for all plays.
 
 
 ## Analysis and Challenges
