@@ -10,6 +10,8 @@ An Analysis of Kickstarter Campaigns
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![AnalysisOfLaunchDate](/resources/analysis_of_launch_date.png)
+
 ![analysis of launch date](https://user-images.githubusercontent.com/75760493/102688519-ccc43580-41bc-11eb-83f6-7995205ae457.PNG)
 
 ### Analysis of Outcomes Based on Goals
